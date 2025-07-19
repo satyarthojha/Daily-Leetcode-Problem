@@ -1,4 +1,4 @@
-//3201->Find the maximum length of a subarray with alternating odd and even numbers.
+//3202->Find the maximum length of a valid subarray -2
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
